@@ -85,11 +85,58 @@ Planned for v0.1–v1.0:
 
 ---
 
-## 🧪 Directory Layout (subject to change)
+## 📁 Directory Layout
 
-```text
-/firmware      - microcontroller firmware (Pico etc.)
-/flows         - Node-RED flows (JSON)
-/docs          - documentation, diagrams, how-tos
-/hardware      - reference schematics, wiring examples
-/tools         - helper scripts, utilities
+    /firmware      - Pico/Pico W firmware (MicroPython or C)
+    /flows         - Node-RED flows (JSON)
+    /docs          - Diagrams, guides, quickstarts
+    /hardware      - Wiring examples, schematics, reference designs
+    /tools         - Helper scripts and utilities
+    LICENSE
+    NOTICE
+    README.md
+    CONTRIBUTING.md
+    ROADMAP.md
+
+---
+
+## 📜 License
+
+Core FunZone software is licensed under the Apache License 2.0.  
+See `LICENSE` for the full text.
+
+Documentation may be licensed under Creative Commons CC BY 4.0.  
+Premium flows, advanced tools, and hardware kits may be offered under separate commercial terms.
+
+---
+
+## 💬 Contributing
+
+Contributions are welcome!
+
+Ways to help:
+- add new node firmware modules
+- create Node-RED flows
+- improve documentation or diagrams
+- propose naming conventions
+- share example installations
+
+How to contribute:
+1. Open an Issue  
+2. Fork the repo  
+3. Submit a PR  
+4. We’ll review and merge
+
+By contributing, you agree your contributions are licensed under Apache 2.0.
+
+---
+
+## ❤️ Support & Early Access
+
+You can support FunZone by:
+- buying early-access digital packs
+- joining Patreon for dev notes and early builds
+- sharing your projects
+- submitting feedback and ideas
+
+FunZone exists so small, weird projects can have big, weird control systems without theme-park budgets.
